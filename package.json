@@ -1,0 +1,26 @@
+{
+  "name": "boot-parcel-react-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vivien Meyet",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.9.41",
+    "@types/react-dom": "^16.9.8",
+    "autoprefixer": "^9.8.6",
+    "postcss-modules": "^3.2.2",
+    "react": "16",
+    "react-dom": "16"
+  },
+  "devDependencies": {
+    "postcss-css-variables": "^0.17.0",
+    "postcss-nested": "^4.2.3",
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.5"
+  }
+}
